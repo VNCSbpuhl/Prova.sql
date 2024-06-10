@@ -1,6 +1,6 @@
  /*Inserções de dados nas tabelas*/
 
-INSERT INTO aluno (id_aluno, nome, data_nac, rua, numero, bairro, cidade)
+``` INSERT INTO aluno (id_aluno, nome, data_nac, rua, numero, bairro, cidade)
 VALUES
 (1, 'João Silva', '2000-05-15', 'Rua A', 123, 'Centro', 'Cidade A'),
 (2, 'Maria Oliveira', '1999-08-22', 'Rua B', 456, 'Bairro X', 'Cidade B'),
